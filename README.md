@@ -7,7 +7,7 @@ Forecast sentiment of movie review using neural networks. Implementation was mad
 
 ## Features
 - IMDB reviews supported and checked
-- POSITIVE and NEGATIVE output is supported.
+- POSITIVE and NEGATIVE output is supported
 
 ---
 
