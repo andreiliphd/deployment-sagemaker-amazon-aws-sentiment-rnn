@@ -23,7 +23,7 @@ Install all the dependencies.
 
 ## Usage
 
-Please provide information in the format of Russian Accounting Standards.
+Please provide a text of a review to receive whether it's negative or positive.
 
 ---
 
